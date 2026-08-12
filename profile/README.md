@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aukcraft/.github/main/profile/aukcraft-logo.svg" alt="aukcraft logo" width="96" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aukcraft/.github/main/profile/aukcraft-logo-dark.svg" />
+  <img src="https://raw.githubusercontent.com/aukcraft/.github/main/profile/aukcraft-logo.svg" alt="aukcraft logo" width="96" />
+</picture>
 
 # aukcraft
 
@@ -57,15 +60,18 @@ aukcraft is a small open-source team obsessed with system architecture and engin
 
 ---
 
-## Technical Foundation / 技术底座
+## Workflow / 工作流程
 
 ```
-Language    Rust                  — systems programming, performance, safety
-Desktop     Tauri 2.x             — lightweight cross-platform desktop runtime
-Frontend    React + TypeScript    — precise, typed UI engineering
-Styling     Tailwind CSS          — constrained, consistent design tokens
-Scripting   Rhai                  — user-facing programmability, embedded in Rust
+Specify     SDD      — spec-driven development: specs before code
+Test        TDD      — test-driven development: red, green, refactor
+Review      Review   — every change passes design and code review
+Integrate   CI/CD    — automated build, test and release pipelines
+Record      Docs     — decisions and specs archived, knowledge kept
 ```
+
+**Process isn't overhead. Process is how speed stays sustainable.**
+流程不是束缚——流程是让速度可持续的东西。
 
 ---
 

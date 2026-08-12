@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aukcraft/.github/main/profile/aukcraft-logo.svg" alt="aukcraft logo" width="96" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aukcraft/.github/main/profile/aukcraft-logo-dark.svg" />
+  <img src="https://raw.githubusercontent.com/aukcraft/.github/main/profile/aukcraft-logo.svg" alt="aukcraft logo" width="96" />
+</picture>
 
 # aukcraft
 
@@ -57,15 +60,18 @@ A programmable desktop visual overlay system — a general-purpose visual anchor
 
 ---
 
-## 技术底座 / Technical Foundation
+## 工作流程 / Workflow
 
 ```
-语言        Rust                  — 系统编程、性能、安全
-桌面运行时  Tauri 2.x             — 轻量跨平台桌面运行时
-前端        React + TypeScript    — 精确、类型化的 UI 工程
-样式        Tailwind CSS          — 受约束、一致的设计 token
-脚本        Rhai                  — 面向用户的可编程能力，内嵌于 Rust
+规格  SDD     — 规格驱动开发：先写规格，再写代码
+测试  TDD     — 测试驱动开发：红、绿、重构
+审查  Review  — 每一处变更都要过设计与代码评审
+集成  CI/CD   — 自动化构建、测试与发布，流程说了算
+沉淀  Docs    — 决策留痕，规格归档，知识不流失
 ```
+
+**流程不是束缚——流程是让速度可持续的东西。**
+Process isn't overhead. Process is how speed stays sustainable.
 
 ---
 
