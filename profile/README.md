@@ -81,10 +81,10 @@ Scripting   Rhai                  — user-facing programmability, embedded in R
 
 We're looking for contributors who care about the craft / 我们在寻找同样敬畏手艺的你：
 
-- **Rust developers** — systems programming, performance optimization, cross-platform abstraction
-- **Frontend engineers** — React / TypeScript, developer experience, UI precision
+- **SDD developers** — spec-driven development: turning specs and intent into working systems
+- **Full-stack engineers** — full-stack in the AI era: from prompt to product, frontend to backend
+- **AI engineers** — agents, tooling, evaluation, and workflow integration
 - **Designers** — tool-product design, interaction detail, visual restraint
-- **Testing / QA** — automation, CI, release pipelines
 
 **How to contribute:** open an Issue, send a Pull Request, or write to **dev@aukcraft.org** for technical discussion and architecture consulting.
 参与方式：提交 Issue / PR，或邮件联系 dev@aukcraft.org。

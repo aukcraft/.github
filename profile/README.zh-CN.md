@@ -81,10 +81,10 @@ A programmable desktop visual overlay system — a general-purpose visual anchor
 
 我们在寻找同样敬畏手艺的人 / We're looking for people who care about the craft：
 
-- **Rust 开发者** — 系统编程、性能优化、跨平台抽象
-- **前端工程师** — React / TypeScript，关注开发者体验与 UI 精度
+- **SDD 开发者** — 规格驱动开发：把规格与意图变成可运行的系统
+- **全栈工程师** — AI 时代的全栈：从 prompt 到产品，从前端到后端
+- **AI 工程师** — 智能体、工具链、评估与工作流集成
 - **设计师** — 工具类产品设计，关注交互细节与视觉克制
-- **测试 / QA** — 自动化测试、持续集成、发布流程
 
 **参与方式：** 提交 Issue、发起 Pull Request，或邮件联系 **dev@aukcraft.org** 进行技术讨论与架构咨询。
 Open an Issue, send a PR, or write to dev@aukcraft.org.
