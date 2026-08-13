@@ -87,10 +87,10 @@ Process isn't overhead. Process is how speed stays sustainable.
 
 我们在寻找同样敬畏手艺的人 / We're looking for people who care about the craft：
 
-- **SDD 开发者** — 规格驱动开发：把规格与意图变成可运行的系统
-- **全栈工程师** — AI 时代的全栈：从 prompt 到产品，从前端到后端
-- **AI 工程师** — 智能体、工具链、评估与工作流集成
-- **设计师** — 工具类产品设计，关注交互细节与视觉克制
+- **Skills 架构师** — 设计 skill 的能力边界与模块化结构，让技能可组合
+- **Skills 工程师** — 把 prompt 与工作流沉淀为可复用的技能，从能力到产品
+- **Skills 产品设计** — 设计更符合用户直觉的技能产品
+- **Skills UI/UX 设计师** — 界面与交互设计，关注细节与视觉克制
 
 **参与方式：** 提交 Issue、发起 Pull Request，或邮件联系 **dev@aukcraft.org** 进行技术讨论与架构咨询。
 Open an Issue, send a PR, or write to dev@aukcraft.org.
