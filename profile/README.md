@@ -87,10 +87,10 @@ Record      Docs     — decisions and specs archived, knowledge kept
 
 We're looking for contributors who care about the craft / 我们在寻找同样敬畏手艺的你：
 
-- **Skills architects** — designing skill boundaries and modular structure, so skills compose
+- **SDD engineers** — spec-driven development: turning specs and intent into working systems
 - **Skills engineers** — turning prompts and workflows into reusable skills, from capability to product
-- **Skills product design** — designing skill products that match how users actually think
-- **Skills UI/UX designers** — interface and interaction design, detail-obsessed, visually restrained
+- **Product design** — designing products that match how users actually think
+- **UI/UX designers** — interface and interaction design, detail-obsessed, visually restrained
 
 **How to contribute:** open an Issue, send a Pull Request, or write to **dev@aukcraft.org** for technical discussion and architecture consulting.
 参与方式：提交 Issue / PR，或邮件联系 dev@aukcraft.org。
