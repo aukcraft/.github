@@ -33,11 +33,10 @@ aukcraft is a small open-source team obsessed with system architecture and engin
 
 | Principle | What It Means |
 |---|---|
-| **Architecture over code / 架构优先于代码** | We invest the most effort at the design stage; code is the execution of architecture, not a substitute for it. |
+| **Spec-Driven Development / 规范驱动开发** | Specs before code — the spec is the single source of truth for how our team and AI collaborate. |
 | **Modularity as strategy / 模块化即战略** | Every component is independent, testable, and reusable — today's internal module is tomorrow's open-source crate. |
 | **Process is product / 流程即产品** | CI/CD, code review, release strategy, and documentation are as important as the final code. |
-| **Cross-platform by default / 跨平台是默认** | A lightweight native stack; every platform, first-class. |
-| **Clarity over perfection / 清晰重于完美** | We optimize for clear system boundaries and extensible foundations, not flawless lines. |
+| **Performance as baseline / 性能是底线** | Every frame has a budget; performance is a design constraint, not an afterthought. |
 
 ---
 

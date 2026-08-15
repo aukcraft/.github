@@ -33,11 +33,10 @@ aukcraft 是一个小而精的开源团队，执着于系统架构与工程流�
 
 | 原则 | 含义 |
 |---|---|
-| **架构优先于代码 / Architecture over code** | 在设计阶段投入最多精力；代码是架构的执行，而非架构的替代。 |
+| **规范驱动开发 / Spec-Driven Development** | 先写规格，再写代码——规格是团队与 AI 协作的单一事实来源。 |
 | **模块化即战略 / Modularity as strategy** | 每个组件独立、可测试、可复用——今天的内部模块，明天就是开源 crate。 |
-| **流程即产品 / Process is product** | CI/CD、代码审查、发布策略、文档更新，与最终代码同等重要。 |
-| **跨平台是默认 / Cross-platform by default** | 以轻量原生技术栈为基；每个平台，都是一等公民。 |
-| **清晰重于完美 / Clarity over perfection** | 我们优化的是清晰的系统边界与可扩展的底座，而非无瑕的单行代码。 |
+| **流程即产品 / Process is product** | CI/CD、代码审查、发布策略与文档，与最终代码同等重要。 |
+| **性能是底线 / Performance as baseline** | 每一帧都有预算；性能不是事后优化，而是设计之初的约束。 |
 
 ---
 
